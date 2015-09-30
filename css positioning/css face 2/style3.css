@@ -1,0 +1,47 @@
+#lefteye
+{
+    border-radius:75px;
+    background:blue;
+    padding:50px; 
+    width:50px;
+    height:50px;
+	background:blue;
+	position:relative;
+	top:250px;
+	left:300px;
+}
+
+#righteye
+{
+   border-radius:75px;
+    background:blue;
+    padding:50px; 
+    width:50px;
+    height:50px;
+	background:blue;
+	position:relative;
+	top:100px;
+	left:600px;
+}
+
+#nose
+{
+	width:80px;
+	height:80px;
+	background:black;
+	position:relative;
+	top:200px;
+	left:475px;
+
+}
+
+#mouth
+{
+	width:500px;
+	height:100px;
+	background:red;
+	position:fixed;
+	top:650px;
+	left:270px;
+}
+

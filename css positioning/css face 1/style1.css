@@ -1,0 +1,41 @@
+#lefteye
+{
+	width:125px;
+	height:100px;
+	background:blue;
+	position:relative;
+	top:250px;
+	left:300px;
+}
+
+#righteye
+{
+	width:125px;
+	height:100px;
+	background:blue;
+	position:relative;
+	top:150px;
+	left:600px;
+}
+
+#nose
+{
+	width:80px;
+	height:80px;
+	background:black;
+	position:relative;
+	top:250px;
+	left:475px;
+
+}
+
+#mouth
+{
+	width:500px;
+	height:100px;
+	background:red;
+	position:fixed;
+	top:650px;
+	left:270px;
+}
+
